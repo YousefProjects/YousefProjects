@@ -1,8 +1,6 @@
 
 ### Hi there 👋, my name is Yousef
 #### Full Stack Developer Student
-![Full Stack Student](https://swas.io/static/hello-world-banner-d0a141d7bfcd1933c1d175b273805281-45f1b.jpg)
-
 
 Skills: HTML / CSS / Bootstrap / React js / React Native / Node js
 
