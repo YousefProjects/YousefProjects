@@ -7,8 +7,7 @@
 Skills: HTML / CSS / Bootstrap / React js / React Native / Node js
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousefProjects)](https://github.com/YousefProjects/github-readme-stats)
+ 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/yousef.projects?utm_medium=copy_link/)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefProjects&layout=compact)](https://github.com/YousefProjects/github-readme-stats)
 
